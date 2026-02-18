@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "刹那",
+  "base_artist": "Creepy Nuts",
+  "createdAt": "2026-02-18T06:39:26.130560Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "刹那 Demo",
+      "artist": "Does",
+      "has_synced": false,
+      "path": "select/01_刹那_Demo_Does.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "刹那",
+      "artist": "GReeeeN",
+      "has_synced": false,
+      "path": "select/02_刹那_GReeeeN.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "刹那",
+      "artist": "Creepy Nuts(R-指定&DJ松永)",
+      "has_synced": false,
+      "path": "select/03_刹那_Creepy_Nuts(R-指定&DJ松永).txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "刹那 75",
+      "artist": "暁Records",
+      "has_synced": false,
+      "path": "select/04_刹那_75_暁Records.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "刹那",
+      "artist": "Creepy Nuts",
+      "has_synced": true,
+      "path": "select/05_刹那_Creepy_Nuts.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "刹那",
+      "artist": "GReeeeN",
+      "has_synced": true,
+      "path": "select/06_刹那_GReeeeN.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "刹那",
+      "artist": "DOES",
+      "has_synced": true,
+      "path": "select/07_刹那_DOES.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "刹那",
+      "artist": "GReeeeN",
+      "has_synced": true,
+      "path": "select/08_刹那_GReeeeN.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "刹那",
+      "artist": "GREEEEN",
+      "has_synced": false,
+      "path": "select/09_刹那_GREEEEN.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "刹那",
+      "artist": "GReeeeN",
+      "has_synced": true,
+      "path": "select/10_刹那_GReeeeN.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "刹那 - Setsuna",
+      "artist": "Creepy Nuts",
+      "has_synced": false,
+      "path": "select/11_刹那_-_Setsuna_Creepy_Nuts.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "刹那",
+      "artist": "Creepy Nuts(R-指定&DJ松永)",
+      "has_synced": false,
+      "path": "select/pl_01_刹那_Creepy_Nuts(R-指定&DJ松永).txt"
+    }
+  ]
+}
